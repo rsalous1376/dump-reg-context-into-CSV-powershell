@@ -1,0 +1,1 @@
+Get-ChildItem -Path HKCU:\ -Recurse | Out-File C:\HKCU_menu.csv
